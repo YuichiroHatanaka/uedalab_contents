@@ -15,5 +15,5 @@ https://github.com/YuichiroHatanaka/map_compression
 使用言語は python, 環境は Jupyter Notebook を用いる。
 
 
-##実験結果
+## 実験結果
 
