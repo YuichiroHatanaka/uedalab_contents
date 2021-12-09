@@ -38,3 +38,4 @@ https://github.com/YuichiroHatanaka/map_compression
 ## 結論・今後の展望
 
 実際に実験をし、地図の正確さがある程度あるようにするにはどのサイズが適切かを調査したい。
+実験をするときはまず、室内を走らせて行きたい。
