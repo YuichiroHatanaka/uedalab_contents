@@ -17,3 +17,6 @@ https://github.com/YuichiroHatanaka/map_compression
 
 ## 実験結果
 
+![](original.png)
+![](10.png)
+![](40.png)
