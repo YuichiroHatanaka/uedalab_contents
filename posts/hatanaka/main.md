@@ -8,7 +8,11 @@ Copyright: (C) 2021 Yuichiro Hatanaka
 
 ## 実験環境
 
-以下のコードを使用し、実験する。
+使用する画像
+
+![](original.png)
+
+使用するコード
 
 https://github.com/YuichiroHatanaka/map_compression
 
@@ -17,6 +21,10 @@ https://github.com/YuichiroHatanaka/map_compression
 
 ## 実験結果
 
-![](original.png)
+サイズ 1/10
+
 ![](10.png)
+
+サイズ 1/40
+
 ![](40.png)
