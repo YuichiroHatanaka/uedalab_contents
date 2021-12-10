@@ -25,7 +25,7 @@ Packageは以下のものを使用しました。
 
 ![19階地図](AnyConv.com__2_19.png)
 
-![new](https://user-images.githubusercontent.com/73636802/145337392-0cabd967-f67b-4ee1-be4d-d645f18af140.png) 
+![new](image.png) 
 
 上図は、gmapping[http://wiki.ros.org/gmapping] で作成した19階の地図です。resolutionを0.30に設定しました。
 ## 実験結果
