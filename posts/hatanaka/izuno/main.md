@@ -23,14 +23,18 @@ Packageは以下のものを使用しました。
 実験場所は、千葉工業大学津田沼キャンパスの2号館19階の廊下です。
 この区間を一周させることで、ナビゲーションが行えたとします。
 
-地図は、gmapping[http://wiki.ros.org/gmapping] で作成した19階の地図です。
+地図は、gmapping[http://wiki.ros.org/gmapping] で作成しました。
 
 resolutionが0.05の地図ではナビゲーションを行うことができなかったため、resolutionを0.30に設定しました。
 
 ![new](image.png)
 
+図１　rezolution 0.05
+
 ![19階地図](AnyConv.com__2_19.png)
 
+
+図１　rezolution 0.30
 
 
 ## 実験結果
