@@ -27,7 +27,7 @@ Packageは以下のものを使用しました。
 
 resolutionが0.05の地図ではナビゲーションを行うことができなかったため、resolutionを0.30に設定しました。
 
-![new](image.png)
+![new](AnyConv.com__2_19.png)
 
 rezolution 0.05
 
