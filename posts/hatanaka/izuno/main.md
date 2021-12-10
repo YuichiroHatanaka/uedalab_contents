@@ -25,7 +25,7 @@ Packageは以下のものを使用しました。
 
 ![19階地図](AnyConv.com__2_19.png)
 
-![19階地図](map_tudanuma.pgm)
+![19階地図](newmap.pgm)
 
 上図は、gmapping[http://wiki.ros.org/gmapping] で作成した19階の地図です。resolutionを0.30に設定しました。
 ## 実験結果
