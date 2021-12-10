@@ -31,8 +31,7 @@ resolutionが0.05の地図ではナビゲーションを行うことができな
 
 図１　rezolution 0.05
 
-![19階地図](AnyConv.com__2_19.png)
-
+![19階地図](map_tudanumakai.png)
 
 図１　rezolution 0.30
 
