@@ -29,11 +29,11 @@ resolutionが0.05の地図ではナビゲーションを行うことができな
 
 ![new](image.png)
 
-図１　rezolution 0.05
+rezolution 0.05
 
 ![19階地図](map_tudanumakai.png)
 
-図１　rezolution 0.30
+rezolution 0.30
 
 
 ## 実験結果
